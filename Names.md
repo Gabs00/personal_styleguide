@@ -29,7 +29,7 @@
 
 "You know are working on clean code when each routine you read turns out to be pretty much what you expected"<sub>2</sub>
 
-#### Fictional Example
+#### Example
 
 ````javascript
 //Loads page with list of names and returns the list element
@@ -56,7 +56,7 @@ It does the follow things:
 <hr />
 #### Description
 
-#### Fictional Example
+#### Example
 
 ````javascript
 
@@ -69,7 +69,7 @@ It does the follow things:
 <hr />
 #### Description
 
-#### Fictional Example
+#### Example
 
 ````javascript
 
@@ -82,7 +82,7 @@ It does the follow things:
 <hr />
 #### Description
 
-#### Fictional Example
+#### Example
 
 ````javascript
 
@@ -95,7 +95,7 @@ It does the follow things:
 <hr />
 #### Description
 
-#### Fictional Example
+#### Example
 
 ````javascript
 
@@ -109,7 +109,7 @@ It does the follow things:
 <hr />
 #### Description
 
-#### Fictional Example
+#### Example
 
 ````javascript
 
@@ -123,7 +123,7 @@ It does the follow things:
 <hr />
 #### Description
 
-#### Fictional Example
+#### Example
 
 ````javascript
 
@@ -136,7 +136,7 @@ It does the follow things:
 <hr />
 #### Description
 
-#### Fictional Example
+#### Example
 
 ````javascript
 
@@ -149,7 +149,7 @@ It does the follow things:
 <hr />
 #### Description
 
-#### Fictional Example
+#### Example
 
 ````javascript
 
@@ -162,7 +162,7 @@ It does the follow things:
 <hr />
 #### Description
 
-#### Fictional Example
+#### Example
 
 ````javascript
 
@@ -175,7 +175,7 @@ It does the follow things:
 <hr />
 #### Description
 
-#### Fictional Example
+#### Example
 
 ````javascript
 
@@ -188,7 +188,7 @@ It does the follow things:
 <hr />
 #### Description
 
-#### Fictional Example
+#### Example
 
 ````javascript
 
@@ -201,7 +201,7 @@ It does the follow things:
 <hr />
 #### Description
 
-#### Fictional Example
+#### Example
 
 ````javascript
 
