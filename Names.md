@@ -44,7 +44,7 @@ It:* Loads a url* Fills the container element with the content loaded from the u
 
 >NOTE: Functions should be as short as possible (see function section)
 
-### Avoid Disinformation <a name="avoid-disinformation"></a>
+### <a name="avoid-disinformation">Avoid Disinformation</a>
 
 ### Make Meaningful distinctions <a name="meaningful-distinctions"></a>
 
@@ -70,5 +70,5 @@ It:* Loads a url* Fills the container element with the content loaded from the u
 
 #### Credits
 
-<sub>1. Clean Code, PG VII, Ch. 2 TOC, by Robert C. Martin
-2. Clean Code, PG 11, Ward Cunningham quote on clean code.</sub>
+<sub>1. Clean Code, PG VII, Ch. 2 TOC, by Robert C. Martin</sub>
+<sub>2. Clean Code, PG 11, Ward Cunningham quote on clean code.</sub>
