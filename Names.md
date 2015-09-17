@@ -77,7 +77,7 @@ It does the follow things:
 
 ````
 
-### Use Dronounceable Names <a name="pronounceable-names"></a>
+### Use Pronounceable Names <a name="pronounceable-names"></a>
 
 <hr />
 #### Description
